@@ -5,3 +5,5 @@ I'm a Web Developer from the UK. I like to learn about new technologies, I am cu
 
 ## 📫 How to reach out?
 Feel free to reach out to me on [Telegram](https://t.me/bsodoge).
+
+![](https://komarev.com/ghpvc/?username=bsodoge&color=green)
