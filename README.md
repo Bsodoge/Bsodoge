@@ -3,7 +3,4 @@ I'm a Web Developer from the UK. I like to learn about new technologies, I am cu
 
 [![Bsodoge's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bsodoge&theme=dracula&layout=compact)](https://github.com/bsodoge)
 
-## 📫 How to reach out?
-Feel free to reach out to me on [Telegram](https://t.me/bsodoge).
-
 ![](https://komarev.com/ghpvc/?username=bsodoge&color=green)
